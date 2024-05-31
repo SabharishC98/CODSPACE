@@ -1,0 +1,194 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.logo1 {
+    border-width: 3px;
+    border-style: solid;
+    border-color: #4b6cc1;
+    height: 38px;
+    width: 33px;
+}
+
+
+.bg1 {
+    background-color: #191a1d;
+    height: 100vh;
+}
+
+.head1 {
+    color: white;
+    font-size: 36px;
+}
+
+.spl1 {
+    color: #4b6cc1;
+    font-size: 36px;
+}
+
+.para1 {
+    color: #9aa5b1;
+    font-size: 28px;
+}
+
+.image1 {
+    height: 300px;
+    width: 300px;
+}
+
+.but1 {
+    border-radius: 5px;
+}
+
+.mar1 {
+    margin-top: 25%;
+}
+.bg {
+    background-color: #323f4b;
+}
+
+.bg3 {
+    background-color: #323f4b;
+    border-radius: 10px;
+}
+
+.bg2 {
+    background-color: #1f2933;
+}
+
+.sub2 {
+    color: #cced00;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.head2 {
+    color: white;
+    font-size: 36px;
+    font-weight: bold;
+}
+
+.para2 {
+    color: #9aa5b1;
+    font-size: 20px;
+}
+
+.image2 {
+    height: 400px;
+    width: 500px;
+}
+
+.name2 {
+    color: white;
+    font-size: 32px;
+    text-align: center;
+}
+
+.sym2 {
+    height: 120px;
+}
+
+.card2 {
+    height: 200px;
+    width: 250px;
+
+}
+.bg3 {
+    background-color: #3e4c59;
+    height: 100%;
+}
+
+
+
+.image3 {
+    width: 100%;
+    height: 200px;
+}
+
+.card3 {
+    background-color: #323f4b;
+}
+
+.web3 {
+    color: #9aa5b1;
+    font-size: 16px;
+}
+
+.head23 {
+    color: white;
+    font-size: 28px;
+}
+
+.para3 {
+    color: #9aa5b1;
+    font-size: 24px;
+}
+
+.sub3 {
+    color: #cced00;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.head3 {
+    color: white;
+    font-size: 36px;
+    font-weight: bold;
+}
+
+.read3 {
+    color: #cced00;
+}
+.head24 {
+    color: white;
+    font-size: 28px;
+}
+
+.para4 {
+    color: #9aa5b1;
+    font-size: 24px;
+}
+
+.sub4 {
+    color: #cced00;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.head4 {
+    color: white;
+    font-size: 36px;
+    font-weight: bold;
+}
+
+.bg4 {
+    background-color: #52606d;
+}
+
+.card4 {
+    background-color: #323f4b;
+}
+
+.image4 {
+    height: 50px;
+    width: 50px;
+}
+.bg5 {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/portfolio-work-done-bg.png');
+    text-align: center;
+    background-size: cover;
+    color: white;
+}
+
+hr {
+    background-color: white;
+    width: 100px;
+    height: 2px;
+
+}
+
+p {
+    font-size: 28px;
+}
+
+h1 {
+    font-size: 60px;
+}
